@@ -1,0 +1,4 @@
+dao\DaoPersona.class
+ejecutable\Inicio.class
+model\Persona.class
+utils\JpaUtils.class
